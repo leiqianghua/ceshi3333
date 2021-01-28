@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cf47aec8edf40cc111dfd5f60c5f3a0a",
+    "packages": [
+        {
+            "name": "leiqianghua/ceshi2222",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/leiqianghua/ceshi2222.git",
+                "reference": "7339dbc90ba74a1a9f42101085efd8e7f3cc0500"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/leiqianghua/ceshi2222/zipball/7339dbc90ba74a1a9f42101085efd8e7f3cc0500",
+                "reference": "7339dbc90ba74a1a9f42101085efd8e7f3cc0500",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "leiqianghua\\ceshi2222\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "time": "2021-01-28T06:20:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "leiqianghua/ceshi2222": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
