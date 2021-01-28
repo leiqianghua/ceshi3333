@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cf47aec8edf40cc111dfd5f60c5f3a0a",
+    "content-hash": "cb4c1a6c278071a9b85461535c4f6382",
     "packages": [
         {
             "name": "leiqianghua/ceshi2222",
@@ -41,10 +41,8 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
-    "stability-flags": {
-        "leiqianghua/ceshi2222": 20
-    },
+    "minimum-stability": "dev",
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
